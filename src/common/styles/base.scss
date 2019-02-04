@@ -1,0 +1,10 @@
+@import "variable";
+
+html, body {
+  font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", SimSun, sans-serif;
+  line-height: 1;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  background: $color-background;
+  color: $color-text;
+}
